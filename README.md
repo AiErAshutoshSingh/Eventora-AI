@@ -2,7 +2,7 @@
 
 ## 1. 🏠 Landing Page
 
-<img src="l.png" alt="Landing Page" width="100%"/>
+<img src="1.png" alt="Landing Page" width="100%"/>
 
 The Landing Page provides an elegant introduction to the AI Wedding & Event Planning platform. It showcases premium design, AI-powered planning features, event categories, pricing, testimonials, and clear call-to-action buttons to help users start planning their perfect event.
 
