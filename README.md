@@ -1,4 +1,4 @@
-# 💍 Ethereal Planner
+# 💍 Eventora AI 
 
 ### AI Powered Wedding & Event Planning Assistant
 
@@ -66,7 +66,9 @@ https://ai-eventora.vercel.app/planner
 The landing page introduces Ethereal Planner with a premium wedding-inspired design, product overview, features, pricing and direct access to the planning dashboard.
 
 ![Ethereal Planner Landing Page](1.png)
-
+(2.png)
+(3.png)
+(4 login.png)
 ---
 
 # 📊 Dashboard
@@ -87,7 +89,7 @@ The central command center provides an overview of the entire event.
 * Vendor Status
 * Planning Progress
 
-![Dashboard](assets/dashboard.png)
+![Dashboard](dashboard.png)
 
 ---
 
@@ -105,7 +107,7 @@ The AI Planner can help generate:
 * Event schedules
 * Cost-saving strategies
 
-![AI Planner](assets/ai-planner.png)
+![AI Planner](Aiplanner.png)
 
 ---
 
@@ -136,7 +138,7 @@ Vendor information can include:
 * Pros & Cons
 * Contact information
 
-![Discover Vendors](assets/discover-vendors.png)
+![Discover Vendors](discovervendors.png)
 
 ---
 
@@ -154,7 +156,7 @@ Keep all selected vendors organized in one place.
 * Track estimated cost
 * Compare vendors
 
-![Vendors](assets/vendors.png)
+![Vendors](vendors.png)
 
 ---
 
@@ -174,7 +176,7 @@ Compare:
 | ❌ Cons      | Potential drawbacks  |
 | 📞 Contact  | Contact information  |
 
-![Vendor Comparison](assets/compare.png)
+![Vendor Comparison](compare.png)
 
 ---
 
@@ -194,7 +196,7 @@ Track your event finances in real time.
 * Category-based breakdown
 * Interactive charts
 
-![Budget](assets/budget.png)
+![Budget](Budget.png)
 
 ---
 
@@ -217,7 +219,7 @@ Manage your complete guest list and track responses.
 * Copy reminder messages
 * View RSVP statistics
 
-![Guests & RSVP](assets/guests-rsvp.png)
+![Guests & RSVP](Guests.png)
 
 ---
 
@@ -246,7 +248,7 @@ The timeline automatically organizes tasks based on the event date.
 * Progress tracking
 * Upcoming milestones
 
-![Event Timeline](assets/timeline.png)
+![Event Timeline](Timeline.png)
 
 ---
 
@@ -270,7 +272,7 @@ Ask questions such as:
 
 > "Give me cost-saving suggestions."
 
-![AI Copilot](assets/ai-copilot.png)
+![AI Copilot](Aicopilot.png)
 
 ---
 
@@ -289,7 +291,7 @@ Reports can include:
 
 Reports can be downloaded as PDF for easy sharing and record keeping.
 
-![Reports](assets/reports.png)
+![Reports](Reports.png)
 
 ---
 
@@ -297,27 +299,11 @@ Reports can be downloaded as PDF for easy sharing and record keeping.
 
 Manage application preferences and event data.
 
-![Settings](assets/settings.png)
+![Settings](settings.png)
 
 ---
 
-# 🧩 Application Modules
-
-| Module        | Route        | Description           |
-| ------------- | ------------ | --------------------- |
-| 🏠 Dashboard  | `/dashboard` | Event overview        |
-| 🤖 AI Planner | `/planner`   | AI-powered planning   |
-| 🔎 Discover   | `/discover`  | Discover vendors      |
-| 🏢 Vendors    | `/vendors`   | Manage vendors        |
-| ⚖️ Compare    | `/compare`   | Compare vendors       |
-| 💰 Budget     | `/budget`    | Track expenses        |
-| 👥 Guests     | `/guests`    | Manage guests & RSVPs |
-| 📅 Timeline   | `/timeline`  | Manage event timeline |
-| 🧠 AI Copilot | `/assistant` | AI planning assistant |
-| 📄 Reports    | `/reports`   | Generate reports      |
-| ⚙️ Settings   | `/settings`  | Application settings  |
-
----
+ 
 
 # 🤖 AI Capabilities
 
@@ -496,7 +482,7 @@ Planned improvements include:
 
 ---
 
-# 🌟 Why Ethereal Planner?
+# 🌟 Why Eventora AI ?
 
 Traditional event planning often requires switching between spreadsheets, messaging apps, vendor websites, notes and calendars.
 
@@ -510,27 +496,27 @@ Traditional event planning often requires switching between spreadsheets, messag
 
 | Dashboard                          | AI Planner                           |
 | ---------------------------------- | ------------------------------------ |
-| ![Dashboard](assets/dashboard.png) | ![AI Planner](assets/ai-planner.png) |
+| ![Dashboard](dashboard.png) | ![AI Planner](Aiplanner.png) |
 
 | Vendor Discovery                         | Vendor Management              |
 | ---------------------------------------- | ------------------------------ |
-| ![Discover](assets/discover-vendors.png) | ![Vendors](assets/vendors.png) |
+| ![Discover](discovervendors.png) | ![Vendors](vendors.png) |
 
 | Vendor Comparison              | Budget                       |
 | ------------------------------ | ---------------------------- |
-| ![Compare](assets/compare.png) | ![Budget](assets/budget.png) |
+| ![Compare](compare.png) | ![Budget](Budget.png) |
 
 | Guests & RSVP                     | Timeline                         |
 | --------------------------------- | -------------------------------- |
-| ![Guests](assets/guests-rsvp.png) | ![Timeline](assets/timeline.png) |
+| ![Guests](Guests.png) | ![Timeline](Timeline.png) |
 
 | AI Copilot                           | Reports                        |
 | ------------------------------------ | ------------------------------ |
-| ![AI Copilot](assets/ai-copilot.png) | ![Reports](assets/reports.png) |
+| ![AI Copilot](Aicopilot.png) | ![Reports](Reports.png) |
 
 | Settings                         |
 | -------------------------------- |
-| ![Settings](assets/settings.png) |
+| ![Settings](settings.png) |
 
 ---
 
@@ -543,10 +529,12 @@ Traditional event planning often requires switching between spreadsheets, messag
 This project is available under the **MIT License**.
 
 ---
+ 
+ 
 
 <p align="center">
 
-### 💍 Ethereal Planner
+### 💍 Eventora AI 
 
 **AI Powered planning for extraordinary celebrations.**
 
