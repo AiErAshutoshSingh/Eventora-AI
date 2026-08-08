@@ -66,10 +66,8 @@ https://ai-eventora.vercel.app/planner
 The landing page introduces Ethereal Planner with a premium wedding-inspired design, product overview, features, pricing and direct access to the planning dashboard.
 
 ![Ethereal Planner Landing Page](1.png)
-(2.png)
-(3.png)
-(4 login.png)
----
+![Ethereal Planner Preview](2.png)
+![Ethereal Planner Application](3.png) 
 
 # 📊 Dashboard
 
