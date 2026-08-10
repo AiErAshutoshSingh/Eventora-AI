@@ -10,14 +10,7 @@
   An intelligent event planning SaaS that helps you manage vendors, budgets, guests, RSVPs, timelines, and event decisions from one beautiful workspace.
 </p>
 
-<p align="center">
 
-[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-Ethereal%20Planner-8b5cf6?style=for-the-badge)](https://ai-eventora.vercel.app/)
-[![Dashboard](https://img.shields.io/badge/📊%20Dashboard-Open-ec4899?style=for-the-badge)](https://ai-eventora.vercel.app/dashboard)
-[![Built with React](https://img.shields.io/badge/React-TypeScript-61dafb?style=for-the-badge\&logo=react)](https://react.dev/)
-[![Powered by Gemini](https://img.shields.io/badge/AI-Gemini-4285F4?style=for-the-badge\&logo=google)](https://ai.google.dev/)
-
-</p>
 
 ---
 
